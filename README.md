@@ -6,7 +6,8 @@ A simple and aesthetic **Quote Generator** built with **Next.js (App Router)**, 
 
 ## 🔗 Live Demo
 
- [View Live Site](https://nexium-shanzay-assign1.vercel.app/)
+ [View Live Site](https://quotegenerator-neon.vercel.app/)
+
 
 ---
 
