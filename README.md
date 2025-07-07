@@ -34,11 +34,6 @@ A simple and aesthetic **Quote Generator** built with **Next.js (App Router)**, 
 This project is deployed using Vercel.
 Every commit to the main branch triggers an automatic redeploy.
 
-app/
- ┣ layout.tsx
- ┣ page.tsx           ← Main quote generator page
- ┗ components/        ← UI components (if any)
-
 
 ## Getting Started
 
