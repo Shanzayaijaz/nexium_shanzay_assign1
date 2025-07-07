@@ -1,4 +1,4 @@
-# ✨ Quote Generator | Shanzay Aijaz Khan
+#  Quote Generator | Shanzay Aijaz Khan
 
 A simple and aesthetic **Quote Generator** built with **Next.js (App Router)**, **Tailwind CSS**, and modern UI components. Hosted on **Vercel**.
 
@@ -6,11 +6,11 @@ A simple and aesthetic **Quote Generator** built with **Next.js (App Router)**, 
 
 ## 🔗 Live Demo
 
-👉 [View Live Site](https://nexium-shanzay-assign1.vercel.app/)
+ [View Live Site](https://nexium-shanzay-assign1.vercel.app/)
 
 ---
 
-## 🚀 Features
+## Features
 
 - Beautiful and responsive UI
 - Built with Next.js 14 (App Router)
@@ -20,7 +20,7 @@ A simple and aesthetic **Quote Generator** built with **Next.js (App Router)**, 
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -30,7 +30,16 @@ A simple and aesthetic **Quote Generator** built with **Next.js (App Router)**, 
 
 ---
 
-## 🛠️ Getting Started
+This project is deployed using Vercel.
+Every commit to the main branch triggers an automatic redeploy.
+
+app/
+ ┣ layout.tsx
+ ┣ page.tsx           ← Main quote generator page
+ ┗ components/        ← UI components (if any)
+
+
+## Getting Started
 
 To run the project locally:
 
@@ -40,13 +49,5 @@ cd nexium_shanzay_assign1
 npm install
 npm run dev
 
-
-Open [http://localhost:3000/assignment-1](http://localhost:3000/assignment-1) in your browser to see the result.
-This project is deployed using Vercel.
-Every commit to the main branch triggers an automatic redeploy.
-
-app/
- ┣ layout.tsx
- ┣ page.tsx           ← Main quote generator page
- ┗ components/        ← UI components (if any)
+Then open: http://localhost:3000
 
